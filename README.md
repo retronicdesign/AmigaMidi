@@ -7,6 +7,7 @@
 - This serial midi interface is compatible with most Amiga Midi softwares.
 - It simply convert serial RS-232 RX and TX signals to MIDI TTL standard.
 - MIDI IN is opto-isolated to prevent ground loops and induction noise.
+- Self powered via serial port.
 - Convenient thru connector to connect other instruments to MIDI IN in daisy-chain.
 - Tested on Bar and Pipes professional and OCTA-MED. (Let us know yours!)
 
