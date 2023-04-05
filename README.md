@@ -20,7 +20,7 @@
 | Quantity | Designator | Part |
 | --- | --- | --- |
 | 7 |	C1,C2,C3,C4,C5,C6,C7|	0.1uF |
-| 1 |	D1 | 1N4148WT |
+| 1 |	D1 | 1N4148 |
 | 2 |	D2,D3 | LED |
 | 3 |	J1,J2,J3 | DIN 5 FEMALE |
 | 1 |	J4 | D-SUB 25 Female |
