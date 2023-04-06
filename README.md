@@ -1,4 +1,5 @@
 # Amiga Serial Midi Adapter V1.0
+![image](https://user-images.githubusercontent.com/18539931/230471348-be8d304a-eb07-45a7-9e02-33494ddeff53.png)
 ## Schematic
 ![image](https://user-images.githubusercontent.com/18539931/230120857-435ea8d5-c045-4a0c-8606-bf8dbc03c01f.png)
 2023 Retronic Design - Open Hardware
