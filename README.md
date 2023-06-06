@@ -1,4 +1,4 @@
-# Amiga Serial Midi Adapter V1.0
+# Amiga Serial Midi Adapter V1.1
 ![MIDI-B](https://user-images.githubusercontent.com/18539931/230472239-8f5f75cc-09ab-45d8-9a18-404810288ec5.png)
 ## Schematic
 ![image](https://github.com/retronicdesign/AmigaMidi/assets/18539931/8ce9c4f6-58bd-4377-ae44-80cd34c68443)
