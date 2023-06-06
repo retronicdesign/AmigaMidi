@@ -1,8 +1,8 @@
 # Amiga Serial Midi Adapter V1.0
 ![MIDI-B](https://user-images.githubusercontent.com/18539931/230472239-8f5f75cc-09ab-45d8-9a18-404810288ec5.png)
 ## Schematic
-![image](https://user-images.githubusercontent.com/18539931/230120857-435ea8d5-c045-4a0c-8606-bf8dbc03c01f.png)
-2023 Retronic Design - Open Hardware
+![image](https://github.com/retronicdesign/AmigaMidi/assets/18539931/8ce9c4f6-58bd-4377-ae44-80cd34c68443)
+(C)2023 Retronic Design - Open Hardware
 
 ## Features
 - This serial midi interface is compatible with most Amiga Midi softwares.
@@ -12,9 +12,13 @@
 - Convenient thru connector to connect other instruments to MIDI IN in daisy-chain.
 - Tested on Bar and Pipes professional and OCTA-MED. (Let us know yours!)
 
+## Versions
+- v1.0 Initial release
+- v1.1 Corrected LED polarity
+
 ## PCB
-![image](https://user-images.githubusercontent.com/18539931/230123170-9f0f4397-d43f-4cb7-9e8f-0efe7e306aee.png)
-![image](https://user-images.githubusercontent.com/18539931/230123259-15924402-458f-4059-888e-28afcf516e82.png)
+![image](https://github.com/retronicdesign/AmigaMidi/assets/18539931/2ec80046-7182-4bb6-9913-ab3947b2b78b)
+![image](https://github.com/retronicdesign/AmigaMidi/assets/18539931/f4a09e4b-8cd1-4723-bd9b-969d20bef4b7)
 
 You can have it done by [PCBWay here](https://www.pcbway.com/project/shareproject/Amiga_Serial_Midi_Adapter_v1_0_d6b9ad10.html)
 
