@@ -20,7 +20,7 @@
 ![image](https://github.com/retronicdesign/AmigaMidi/assets/18539931/2ec80046-7182-4bb6-9913-ab3947b2b78b)
 ![image](https://github.com/retronicdesign/AmigaMidi/assets/18539931/f4a09e4b-8cd1-4723-bd9b-969d20bef4b7)
 
-You can have it done by [PCBWay here](https://www.pcbway.com/project/shareproject/Amiga_Serial_Midi_Adapter_v1_0_d6b9ad10.html)
+You can have it build at [PCBWay](https://pcbway.com/g/J4X1Dw) under my shared projects.
 
 ## Part List
 
