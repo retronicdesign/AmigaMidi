@@ -18,8 +18,8 @@
 - v1.2 Corrected DB-25 PCB footprint
 
 ## PCB
-![image](https://github.com/retronicdesign/AmigaMidi/assets/18539931/2ec80046-7182-4bb6-9913-ab3947b2b78b)
-![image](https://github.com/retronicdesign/AmigaMidi/assets/18539931/f4a09e4b-8cd1-4723-bd9b-969d20bef4b7)
+![image](https://github.com/retronicdesign/AmigaMidi/assets/18539931/1c25cb96-cc20-4b32-a4ac-9e8b5ca61921)
+![image](https://github.com/retronicdesign/AmigaMidi/assets/18539931/a8dbc4b6-b9c0-4f1e-90a0-c7f044fd3959)
 
 You can have it build at [PCBWay](https://pcbway.com/g/J4X1Dw) under my shared projects.
 
