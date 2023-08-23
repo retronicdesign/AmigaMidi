@@ -15,6 +15,7 @@
 ## Versions
 - v1.0 Initial release
 - v1.1 Corrected LED polarity
+- v1.2 Corrected DB-25 PCB footprint
 
 ## PCB
 ![image](https://github.com/retronicdesign/AmigaMidi/assets/18539931/2ec80046-7182-4bb6-9913-ab3947b2b78b)
