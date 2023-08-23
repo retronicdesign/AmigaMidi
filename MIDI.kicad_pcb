@@ -7,8 +7,8 @@
   (paper "A")
   (title_block
     (title "AMIGA SERIAL MIDI INTERFACE")
-    (date "2023-03-31")
-    (rev "v1.1")
+    (date "2023-08-22")
+    (rev "v1.2")
     (company "RETRONIC DESIGN")
     (comment 1 "Francis Gradel, B.Ing.")
   )
