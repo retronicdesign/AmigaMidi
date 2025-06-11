@@ -2230,7 +2230,7 @@
     (property "Value" "DB25_Female" (id 1) (at 251.46 146.685 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_Dsub:DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm" (id 2) (at 255.27 108.585 0)
+    (property "Footprint" "Connector_Dsub:DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm" (id 2) (at 255.27 108.585 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" " ~" (id 3) (at 255.27 108.585 0)
@@ -2622,7 +2622,7 @@
       (reference "J1") (unit 1) (value "MIDI IN") (footprint "Downloads:MIDI_DIN5")
     )
     (path "/a2d52fd8-e19e-4876-89cd-8107fa438050"
-      (reference "J4") (unit 1) (value "DB25_Female") (footprint "Connector_Dsub:DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm")
+      (reference "J4") (unit 1) (value "DB25_Female") (footprint "Connector_Dsub:DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm")
     )
     (path "/b279a835-112a-490d-86a1-30b744210fbb"
       (reference "J?") (unit 1) (value "MIDI OUT") (footprint "Downloads:MIDI_DIN5")
