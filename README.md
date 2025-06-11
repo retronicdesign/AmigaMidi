@@ -1,5 +1,5 @@
 # Amiga Serial Midi Adapter V1.3
-![image](https://github.com/user-attachments/assets/68131b47-9ebf-49ff-b9f5-74145a12df0a)
+![image](https://github.com/user-attachments/assets/6da7e2c9-12cf-47da-97fd-362e76ec88f0)
 
 ## Schematic
 ![image](https://github.com/user-attachments/assets/d484175c-1128-4702-aada-584567cf04ca)
@@ -20,8 +20,12 @@
 - v1.3 Corrected Schematic and PCB (Larger traces / LED alignement / Smaller but capable 5v regulator)
 
 ## PCB
-![image](https://github.com/user-attachments/assets/426d9b6f-cc8f-4fd5-8617-712a850fca36)
-![image](https://github.com/user-attachments/assets/c30a81bf-acde-4c28-bf46-66e8fb0746f4)
+![image](https://github.com/user-attachments/assets/b485d1bf-ce07-446a-ba93-6dd7fc50db77)
+![image](https://github.com/user-attachments/assets/be4351bf-efd9-4cc3-92b3-35b59f2b799a)
+
+## Pictures
+![image](https://github.com/user-attachments/assets/221a76f8-5062-4fe8-8328-7b3e9f7a17e2)
+*Please note that this picture is an outdated version 1.0 of the serial Midi adapter.
 
 You can have it build at [PCBWay](https://pcbway.com/g/J4X1Dw) under my shared projects.
 
